@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Swiss Arms Control Policy and Neutrality}{5}
+\contentsline {subsection}{\numberline {2.1}Swiss Arms Control Policy: From Abstention to Participation}{5}
+\contentsline {subsection}{\numberline {2.2}Limiting the Exports: the "Wait and See" Policy}{5}
+\contentsline {subsection}{\numberline {2.3}Arms import: The Relation with the West and East Blocs during the early Cold War}{6}
+\contentsline {subsubsection}{\numberline {2.3.1}Switzerland's armed neutrality: a Paradox}{7}
+\contentsline {section}{\numberline {3}Switzerland and recognition of Asian countries}{9}
+\contentsline {subsection}{\numberline {3.1}Petitpierre's universality}{9}
+\contentsline {subsection}{\numberline {3.2}Reasons for the restriction of universality}{9}
+\contentsline {subsection}{\numberline {3.3}Relations with North Vietnam}{10}
+\contentsline {subsection}{\numberline {3.4}Relations with North Korea}{11}
+\contentsline {section}{\numberline {4}Representation of US interests in Cuba}{13}
+\contentsline {subsection}{\numberline {4.1}Why did the USA choose Switzerland to represent their interests in Cuba?}{13}
+\contentsline {subsection}{\numberline {4.2}Role of Switzerland as a protective power in Cuba}{13}
+\contentsline {subsection}{\numberline {4.3}Results on the relations between the United States and Switzerland}{14}
+\contentsline {section}{\numberline {5}Conclusion}{15}
+\contentsline {section}{References}{15}
