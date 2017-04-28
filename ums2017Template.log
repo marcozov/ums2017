@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.20)  28 APR 2017 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.20)  28 APR 2017 19:29
 entering extended mode
 **./ums2017Template.tex
 (ums2017Template.tex
@@ -878,7 +878,13 @@ LaTeX Warning: Label `nano3' multiply defined.
 LaTeX Warning: Label `nano3' multiply defined.
 
 
+LaTeX Warning: Label `nano3' multiply defined.
+
+
 LaTeX Warning: Label `reference20' multiply defined.
+
+
+LaTeX Warning: Label `nano3' multiply defined.
 
 
 LaTeX Warning: Label `nano3' multiply defined.
@@ -996,66 +1002,72 @@ Overfull \hbox (35.66426pt too wide) in paragraph at lines 16--16
 ] [4] [5
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
 
 [6] [7] [8] [9] [10] [11] [12] [13
 
 ] [14]
-Overfull \hbox (21.92776pt too wide) in paragraph at lines 218--219
+Overfull \hbox (21.92776pt too wide) in paragraph at lines 221--222
 []\OT1/cmr/m/it/10 Belgium in World War I\OT1/cmr/m/n/10 , https://en.wikipedia
 .org/wiki/Belgium[]in[]World[]War[]I 
  []
 
 
-Overfull \hbox (25.81667pt too wide) in paragraph at lines 222--223
+Overfull \hbox (25.81667pt too wide) in paragraph at lines 225--226
 []\OT1/cmr/m/it/10 Belgium in World War I\OT1/cmr/m/n/10 , https://en.wikipedia
 .org/wiki/Belgium[]in[]World[]War[]II 
  []
 
 
-Overfull \hbox (97.36642pt too wide) in paragraph at lines 226--227
+Overfull \hbox (97.36642pt too wide) in paragraph at lines 229--230
 []\OT1/cmr/m/it/10 Compromessi e com-pro-mis-sioni\OT1/cmr/m/n/10 , https://www
 .uek.ch/it/presse/uebrigeartikel/010831corriere.htm,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 []\OT1/cmr/m/it/10 Treaty on the Non-Proliferation of Nu-clear Weapons (NPT)\OT
 1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (326.43918pt too wide) in paragraph at lines 242--243
+Overfull \hbox (326.43918pt too wide) in paragraph at lines 245--246
 []\OT1/cmr/m/it/10 The Bi-o-log-i-cal Weapons Con-ven-tion\OT1/cmr/m/n/10 , htt
 p://www.unog.ch/80256EE600585943/(httpPages)/04FBBDD6315AC720C1257180004B1B2F?O
 penDocument 
  []
 
 
-Overfull \hbox (28.25806pt too wide) in paragraph at lines 258--259
+Overfull \hbox (28.25806pt too wide) in paragraph at lines 261--262
 []\OT1/cmr/m/it/10 The Nu-clear Sup-pli-ers Group\OT1/cmr/m/n/10 , http://www.n
 uclearsuppliersgroup.org/en/history1 
  []
 
 
-Overfull \hbox (20.74362pt too wide) in paragraph at lines 266--267
+Overfull \hbox (20.74362pt too wide) in paragraph at lines 269--270
 []\OT1/cmr/m/it/10 SIPRI Database\OT1/cmr/m/n/10 , http://armstrade.sipri.org/a
 rmstrade/page/trade[]register.php 
  []
 
+
+Underfull \hbox (badness 2913) in paragraph at lines 305--306
+[]\OT1/cmr/m/it/10 Hotz-Linder-Agreement\OT1/cmr/m/n/10 , http://www.hls-dhs-ds
+s.ch/textes/i/I48308.php,
+ []
+
 [15]
-Underfull \hbox (badness 1694) in paragraph at lines 338--339
+Underfull \hbox (badness 1694) in paragraph at lines 349--350
 []\OT1/cmr/m/it/10 Swiss Rep-re-sen-ta-tion of US-Interests in Cuba\OT1/cmr/m/n
 /10 , http://dodis.ch/en/e-
  []
 
 [16]
-Underfull \hbox (badness 5832) in paragraph at lines 356--357
+Underfull \hbox (badness 5832) in paragraph at lines 367--368
 []\OT1/cmr/m/n/10 Based on fig-ures of His-tor-i-cal Statis-tics of Switzer-lan
 d On-line,
  []
@@ -1066,10 +1078,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13293 strings out of 493333
- 257565 string characters out of 3139193
- 314996 words of memory out of 3000000
- 16543 multiletter control sequences out of 15000+200000
+ 13295 strings out of 493333
+ 257591 string characters out of 3139193
+ 315018 words of memory out of 3000000
+ 16545 multiletter control sequences out of 15000+200000
  9976 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,8n,56p,2152b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1084,7 +1096,7 @@ cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ums2017Template.pdf (17 pages, 219735 bytes).
+Output written on ums2017Template.pdf (17 pages, 220809 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
