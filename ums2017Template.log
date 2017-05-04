@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  4 MAY 2017 14:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.4)  4 MAY 2017 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1021,71 +1021,65 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
  [6] [7] [8]
-[9] [10]
-Overfull \hbox (3.33397pt too wide) in paragraph at lines 111--112
-[]\OT1/cmr/m/n/10 Switzerland also played the role of me-di-a-tor, for in-stanc
-e, dur-ing the \Pueblo"
- []
-
-[11] [12] [13
+[9] [10] [11] [12] [13
 
 ] [14]
-Overfull \hbox (21.92776pt too wide) in paragraph at lines 224--225
+Overfull \hbox (21.92776pt too wide) in paragraph at lines 209--210
 []\OT1/cmr/m/it/10 Belgium in World War I\OT1/cmr/m/n/10 , https://en.wikipedia
 .org/wiki/Belgium[]in[]World[]War[]I 
  []
 
 
-Overfull \hbox (25.81667pt too wide) in paragraph at lines 228--229
+Overfull \hbox (25.81667pt too wide) in paragraph at lines 213--214
 []\OT1/cmr/m/it/10 Belgium in World War I\OT1/cmr/m/n/10 , https://en.wikipedia
 .org/wiki/Belgium[]in[]World[]War[]II 
  []
 
 
-Overfull \hbox (97.36642pt too wide) in paragraph at lines 232--233
+Overfull \hbox (97.36642pt too wide) in paragraph at lines 217--218
 []\OT1/cmr/m/it/10 Compromessi e com-pro-mis-sioni\OT1/cmr/m/n/10 , https://www
 .uek.ch/it/presse/uebrigeartikel/010831corriere.htm,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 []\OT1/cmr/m/it/10 Treaty on the Non-Proliferation of Nu-clear Weapons (NPT)\OT
 1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (326.43918pt too wide) in paragraph at lines 248--249
+Overfull \hbox (326.43918pt too wide) in paragraph at lines 233--234
 []\OT1/cmr/m/it/10 The Bi-o-log-i-cal Weapons Con-ven-tion\OT1/cmr/m/n/10 , htt
 p://www.unog.ch/80256EE600585943/(httpPages)/04FBBDD6315AC720C1257180004B1B2F?O
 penDocument 
  []
 
 
-Overfull \hbox (28.25806pt too wide) in paragraph at lines 264--265
+Overfull \hbox (28.25806pt too wide) in paragraph at lines 249--250
 []\OT1/cmr/m/it/10 The Nu-clear Sup-pli-ers Group\OT1/cmr/m/n/10 , http://www.n
 uclearsuppliersgroup.org/en/history1 
  []
 
 
-Overfull \hbox (20.74362pt too wide) in paragraph at lines 272--273
+Overfull \hbox (20.74362pt too wide) in paragraph at lines 257--258
 []\OT1/cmr/m/it/10 SIPRI Database\OT1/cmr/m/n/10 , http://armstrade.sipri.org/a
 rmstrade/page/trade[]register.php 
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 308--309
+Underfull \hbox (badness 2913) in paragraph at lines 293--294
 []\OT1/cmr/m/it/10 Hotz-Linder-Agreement\OT1/cmr/m/n/10 , http://www.hls-dhs-ds
 s.ch/textes/i/I48308.php,
  []
 
 [15]
-Underfull \hbox (badness 1694) in paragraph at lines 352--353
+Underfull \hbox (badness 1694) in paragraph at lines 337--338
 []\OT1/cmr/m/it/10 Swiss Rep-re-sen-ta-tion of US-Interests in Cuba\OT1/cmr/m/n
 /10 , http://dodis.ch/en/e-
  []
 
 [16]
-Underfull \hbox (badness 5832) in paragraph at lines 370--371
+Underfull \hbox (badness 5832) in paragraph at lines 355--356
 []\OT1/cmr/m/n/10 Based on fig-ures of His-tor-i-cal Statis-tics of Switzer-lan
 d On-line,
  []
@@ -1115,7 +1109,7 @@ xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ums2017Template.pdf (17 pages, 207742 bytes).
+Output written on ums2017Template.pdf (17 pages, 207706 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
